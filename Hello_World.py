@@ -1,5 +1,3 @@
 name = input("Enter your name: ")
 print("Your name is : ", name)
 print("Test")
-print("New test")
-print("Another Test")
